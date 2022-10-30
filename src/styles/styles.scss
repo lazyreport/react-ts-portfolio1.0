@@ -1,0 +1,123 @@
+@import "./_variables.scss";
+@import "./_functions.scss";
+@import "./_mixin.scss";
+
+Html {
+  font-family: pretendard, sans-serif;
+}
+
+@include desktop {
+  Html {
+    font-size: $fontsize-desktop;
+  }
+
+  h1 {
+    font-size: $fontsize-desktop * pow($fontscale-desktop, 5);
+    font-weight: 400;
+    line-height: 6.857rem;
+  }
+  h2 {
+    font-size: $fontsize-desktop * pow($fontscale-desktop, 4);
+    font-weight: 400;
+    line-height: 5.333rem;
+  }
+  h3 {
+    font-size: $fontsize-desktop * pow($fontscale-desktop, 3);
+    font-weight: 200;
+    line-height: 3.429rem;
+    letter-spacing: -0.03em;
+  }
+  h4 {
+    font-size: $fontsize-desktop * pow($fontscale-desktop, 2);
+    font-weight: 400;
+    line-height: 2.286rem;
+  }
+  h5 {
+    font-size: $fontsize-desktop * $fontscale-desktop;
+    font-weight: 400;
+    line-height: 1.905rem;
+  }
+  h6 {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.429rem;
+  }
+}
+
+
+@include tablet {
+  Html {
+    font-size: $fontsize-tablet;
+  }
+
+  h1 {
+    font-size: $fontsize-tablet * pow($fontscale-tablet, 5);
+    font-weight: 400;
+    line-height: 6.857rem;
+  }
+  h2 {
+    font-size: $fontsize-tablet * pow($fontscale-tablet, 4);
+    font-weight: 400;
+    line-height: 5.333rem;
+  }
+  h3 {
+    font-size: $fontsize-tablet * pow($fontscale-tablet, 3);
+    font-weight: 200;
+    line-height: 3.429rem;
+    letter-spacing: -0.03em;
+  }
+  h4 {
+    font-size: $fontsize-tablet * pow($fontscale-tablet, 2);
+    font-weight: 400;
+    line-height: 2.286rem;
+  }
+  h5 {
+    font-size: $fontsize-tablet * $fontscale-tablet;
+    font-weight: 400;
+    line-height: 1.905rem;
+  }
+  h6 {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.429rem;
+  }
+}
+
+
+@include mobile {
+  Html {
+    font-size: $fontsize-mobile;
+  }
+
+  h1 {
+    font-size: $fontsize-mobile * pow($fontscale-mobile, 5);
+    font-weight: 400;
+    line-height: 6.857rem;
+  }
+  h2 {
+    font-size: $fontsize-mobile * pow($fontscale-mobile, 4);
+    font-weight: 400;
+    line-height: 5.333rem;
+  }
+  h3 {
+    font-size: $fontsize-mobile * pow($fontscale-mobile, 3);
+    font-weight: 200;
+    line-height: 3.429rem;
+    letter-spacing: -0.03em;
+  }
+  h4 {
+    font-size: $fontsize-mobile * pow($fontscale-mobile, 2);
+    font-weight: 400;
+    line-height: 2.286rem;
+  }
+  h5 {
+    font-size: $fontsize-mobile * $fontscale-mobile;
+    font-weight: 400;
+    line-height: 1.905rem;
+  }
+  h6 {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.429rem;
+  }
+}
