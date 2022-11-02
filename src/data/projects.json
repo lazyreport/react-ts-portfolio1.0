@@ -1,0 +1,16 @@
+{
+  "example project": {
+      "stacks": ["react", "typescript", "sass", "node", "html5", "css"],
+    /* "stacks": [
+      {
+        "name": "React",
+        "iconUrl": "www.react.com/whatever",
+        "websiteUrl": "www.react.com"
+      }
+    ], */
+    "description": "This is a project on whatever, I learned how to do whatever during this project",
+    "features": "This app is capable of doing this and this",
+    "demoVideoUrl": "wwww.youtube.com/whatever",
+    "members": { "김혜주": "frontend, web design", "알감자": "backend, server" }
+  }
+}

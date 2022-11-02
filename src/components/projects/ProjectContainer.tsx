@@ -2,8 +2,6 @@ import React from 'react'
 import demo from "../assets/videos/demo.mp4"
 
 
-
-
 function ProjectContainer() {
   return (
     <div className='project-container'>
@@ -13,7 +11,6 @@ function ProjectContainer() {
         <p>project feautures</p>
         <div>project stacks</div>
         <a href="">project links</a>
-
         </div>
         <div className="project-video">
             {/* should I do Iframe of video? I think Iframe would be better.. */}

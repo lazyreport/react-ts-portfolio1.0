@@ -1,0 +1,17 @@
+{
+  "react": {
+    "name": "React",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+    "website": "https://reactjs.org/"
+  },
+  "typescript": {
+    "name": "TypeScript",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg",
+    "website": "https://www.typescriptlang.org/"
+  },
+  "javaScript": {
+    "name": "Javascript",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+    "website": "https://www.javascript.com/"
+  }
+}
