@@ -1,0 +1,29 @@
+{
+      "exampleProject": {
+        "name": "Example Project",
+        "descriptioin": "project description",
+        "features": "project features",
+        "stacks": ["react", "typescript"],
+        "demoUrl": "www.youtube.com/english-demo",
+        "projectLinks": {
+          "github": "www.github.com/exampleproject",
+          "figma": "www.figma.com/exampleproject"
+        },
+        "members": [
+          {
+            "key": 1,
+            "name": "argamza",
+            "role": ["frontend", "project leader"],
+            "link": "www.github.com/argamza"
+          },
+          {
+            "key": 2,
+            "name": "bailey",
+            "role": ["backend", "server"],
+            "link": "www.github.com/murdermystery"
+          }
+        ]
+      }
+    }
+  
+  

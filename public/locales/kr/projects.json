@@ -1,0 +1,28 @@
+{
+    "exampleProject": {
+      "name": "예시 프로젝트",
+      "descriptioin": "프로젝트 설명",
+      "features": "기능 설명",
+      "stacks": ["react", "typescript"],
+      "demoUrl": "www.youtube.com/korean-demo",
+      "projectLinks": {
+        "github": "www.github.com/exampleproject",
+        "figma": "www.figma.com/exampleproject"
+      },
+      "members": [
+        {
+          "key": 1,
+          "name": "알감자",
+          "role": ["frontend", "project leader"],
+          "link": "www.github.com/argamza"
+        },
+        {
+          "key": 2,
+          "name": "베일리",
+          "role": ["backend", "server"],
+          "link": "www.github.com/murdermystery"
+        }
+      ]
+    }
+  }
+

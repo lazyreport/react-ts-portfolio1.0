@@ -1,3 +1,14 @@
 {
-    "hyejoo": "혜주"
+  "dev-roles": {
+    "frontend": "프론트엔드",
+    "backend": "백엔드",
+    "server": "서버",
+    "ui/ux design": "UI/UX 디자인",
+    "devops": "DevOps",
+    "project leader": "프로젝트 리더",
+    "web": "웹 개발",
+    "app": "앱 개발",
+    "fullstack": "풀스택"
+  },
+
 }

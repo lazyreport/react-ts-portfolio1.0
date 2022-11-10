@@ -21,7 +21,7 @@ const LanguageSwitcher: React.FC = () => {
   const { i18n } = useTranslation();
 
   return (
-    <div className="lngs-select">
+    <div className="language-switcher">
       {Object.keys(lngs).map((lng) => (
         <button
           type="submit"

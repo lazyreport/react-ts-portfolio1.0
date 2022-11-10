@@ -1,0 +1,14 @@
+{
+    "twitter": {
+        "name": "Twitter",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"
+    },
+    "github": {
+        "name": "GitHub",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+    },
+    "linkedIn": {
+        "name": "LinkedIn",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"
+    }
+}

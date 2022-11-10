@@ -1,3 +1,13 @@
 {
-    "hyejoo": "Hyejoo"
+  "dev-roles": {
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "server": "Server",
+    "ui/ux design": "UI/UX Design",
+    "devops": "DevOps",
+    "project leader": "Project Leader",
+    "web": "Web Development",
+    "app": "App Development",
+    "fullstack": "Full-Stack"
+  }
 }
