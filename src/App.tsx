@@ -5,9 +5,8 @@ import LanguageSwitcher from "./layout/LanguageSwitcher";
 
 const publicProjects = ["ABC", "XYZ"];
 const App: React.FC = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
 
-  console.log(t("exampleProject:name"));
 
   return (
     <div className="App">

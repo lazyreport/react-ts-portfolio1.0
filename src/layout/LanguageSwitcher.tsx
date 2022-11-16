@@ -27,7 +27,7 @@ const LanguageSwitcher: React.FC = () => {
           type="submit"
           key={lng}
           onClick={() => i18n.changeLanguage(lng)}
-          disabled={i18n.resolvedLanguage === lng} // is this working?
+          disabled={i18n.language === lng}
         >
           {lngs[lng].nativeName}
         </button>
