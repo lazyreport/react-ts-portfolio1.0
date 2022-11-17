@@ -1,0 +1,7 @@
+{
+    "msw": {
+        "name": "Mock Service Worker",
+        "logo": "https://raw.githubusercontent.com/mswjs/msw/main/media/msw-logo.svg",
+        "website": "https://mswjs.io/"
+      }
+}
