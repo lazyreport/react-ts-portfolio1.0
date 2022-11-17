@@ -1,6 +1,6 @@
 {
   "react": {
-    "name": "React",
+    "name": "React.js",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
     "website": "https://reactjs.org/"
   },
@@ -13,5 +13,10 @@
     "name": "Javascript",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
     "website": "https://www.javascript.com/"
+  },
+  "node": {
+    "name": "Node.js",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+    "website":"https://nodejs.org/en/"
   }
 }
